@@ -4,5 +4,7 @@ http://172.20.3.1:8080/TSportsHD/index.m3u8
 
 #EXTINF:-1 ,G tv
 http://172.20.3.1:8080/GaziTV/index.m3u8
-#EXTINF:-1 ,T sports
-http://172.20.3.1:8080/TSportsHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Channel 9
+http://172.20.3.1:8080/CHannel9HD/index.m3u8
+#EXTINF:-1 ,Maasranga TV
+http://172.20.3.1:8080/MasrangaTVHD/index.m3u8
