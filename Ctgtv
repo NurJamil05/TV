@@ -1,23 +1,33 @@
 #EXTM3U
-#EXTINF:-1 ,Channel 1
+
+#EXTINF:-1 group-title="General", Channel 1
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 2
+
+#EXTINF:-1 group-title="General", Channel 2
 http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 3
+
+#EXTINF:-1 group-title="General", Channel 3
 http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 4
+
+#EXTINF:-1 group-title="General", Channel 4
 http://103.237.37.118:8888/ant1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 5
+
+#EXTINF:-1 group-title="General", Channel 5
 http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 6
+
+#EXTINF:-1 group-title="General", Channel 6
 http://172.17.50.112:84/ant1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 7
+
+#EXTINF:-1 group-title="General", Channel 7
 http://103.237.37.118:8888/ant1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 8
+
+#EXTINF:-1 group-title="General", Channel 8
 http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 9
+
+#EXTINF:-1 group-title="General", Channel 9
 http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Zee Bangla
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/1200px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png", Zee Bangla
 http://103.237.37.118:8888/Zee-Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star Jalsha
-http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha
