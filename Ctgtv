@@ -1,13 +1,17 @@
 #EXTM3U
 #EXTINF:-1 ,Channel 1
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,G tv
-http://172.20.3.1:8080/GaziTV/index.m3u8
-#EXTINF:-1 ,Channel 9
-http://172.20.3.1:8080/CHannel9HD/index.m3u8
-#EXTINF:-1 ,Maasranga TV
-http://172.20.3.1:8080/MasrangaTVHD/index.m3u8
-#EXTINF:-1 ,Independent TV
-http://172.20.3.1:8080/IndependentTV/index.m3u8
-#EXTINF:-1 ,Jamuna TV
-http://172.20.3.1:8080/JamunaTV/index.m3u8
+#EXTINF:-1 ,Channel 2
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Channel 3
+http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Channel 4
+http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Channel 5
+http://172.17.50.112:84/ant1007/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Channel 6
+http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Channel 7
+http://103.237.37.118:8888/Zee-Bangla/tracks-v1a1/mono.m3u8
+
+
