@@ -34,3 +34,5 @@ http://103.237.37.118:8888/Zee-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/640px-Star_Jalsha_logo_2023.png",Star Jalsha
 http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="General", abcd
+https://crth67.b-cdn.net/s2/upload/videos/2025/08/[Fibwatch.Com]Utshob.(2025).Chorki.1080p.mkv
