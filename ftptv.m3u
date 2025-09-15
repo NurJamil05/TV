@@ -38,12 +38,12 @@ https://egfh67.b-cdn.net/s2/upload/videos/2025/09/[Fibwatch.Com]Bachelor.Point.S
 Cloud Tv: http://172.19.178.180/
 
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 1
-http://172.19.178.29:18190/CLOUD-TV-04/index.fmp4.m3u8?token=da0e7b9db65588bbab435916a6af2c5d5ae14719-c004f2b57f7ef65d20d2804d26e13fde-1757966474-1757955674
+http://172.19.178.29:18190/CLOUD-TV-04/index.fmp4.m3u8?token=d4d84e41b6090aab3992ec46d613ecf5d5016cf9-ea43949469ea831d1d3c0c78925ae7fe-1757989527-1757978727
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 2
 http://172.19.178.149:18190/CLOUD-TV-02/index.fmp4.m3u8?token=ee91764e0d98e83b367a0b30fe79f33ddde76e75-49ec5931ad9cee12ef9ab6b138d56f69-1757966581-1757955781
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 3
 http://172.19.178.29:18190/CLOUD-TV-03/index.fmp4.m3u8?token=d301c95d5099030e467404761e0688e1a3347b1d-a1063cd7d5b2c61c3f587e0e30d05b1f-1757966673-1757955873
-#EXTINF:-1 group-title="Cloud Tv", Asia Cup T Sports
+#EXTINF:-1 group-title="Cloud Tv", T Sports
 http://172.19.178.49:18190/tsports/index.fmp4.m3u8?token=b36efa2e36417dd5821b704fccf43918261eaacd-70c1c4e14ae264077a801129d17d2bf4-1757966599-1757955799
 #EXTINF:-1 group-title="Cloud Tv", PTV Sports
 http://172.19.178.49:18190/ptvsports/index.fmp4.m3u8?token=c8e6d9b15a2a6dd64c7be282ec7390b7ac210ce7-35418b0ad177c1d06981d6e604bb722c-1757966705-1757955905
