@@ -20,10 +20,8 @@ http://172.17.50.112:84/ant1006/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="General", Channel 7
 http://103.237.37.118:8888/ant1007/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="General", Channel 8
 http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="General", Channel 9
 http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General", Nagorik TV
@@ -36,3 +34,20 @@ http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="General", abcd
 https://egfh67.b-cdn.net/s2/upload/videos/2025/09/[Fibwatch.Com]Bachelor.Point.S05E25-32.1080p.mkv
+
+Cloud Tv: http://172.19.178.180/
+
+#EXTINF:-1 group-title="Cloud Tv", Asia Cup 1
+http://172.19.178.29:18190/CLOUD-TV-04/index.fmp4.m3u8?token=da0e7b9db65588bbab435916a6af2c5d5ae14719-c004f2b57f7ef65d20d2804d26e13fde-1757966474-1757955674
+#EXTINF:-1 group-title="Cloud Tv", Asia Cup 2
+http://172.19.178.149:18190/CLOUD-TV-02/index.fmp4.m3u8?token=ee91764e0d98e83b367a0b30fe79f33ddde76e75-49ec5931ad9cee12ef9ab6b138d56f69-1757966581-1757955781
+#EXTINF:-1 group-title="Cloud Tv", Asia Cup 3
+http://172.19.178.29:18190/CLOUD-TV-03/index.fmp4.m3u8?token=d301c95d5099030e467404761e0688e1a3347b1d-a1063cd7d5b2c61c3f587e0e30d05b1f-1757966673-1757955873
+#EXTINF:-1 group-title="Cloud Tv", Asia Cup T Sports
+http://172.19.178.49:18190/tsports/index.fmp4.m3u8?token=b36efa2e36417dd5821b704fccf43918261eaacd-70c1c4e14ae264077a801129d17d2bf4-1757966599-1757955799
+#EXTINF:-1 group-title="Cloud Tv", PTV Sports
+http://172.19.178.49:18190/ptvsports/index.fmp4.m3u8?token=c8e6d9b15a2a6dd64c7be282ec7390b7ac210ce7-35418b0ad177c1d06981d6e604bb722c-1757966705-1757955905
+#EXTINF:-1 group-title="Cloud Tv", Sony Sports Ten 1
+http://172.19.178.49:18190/sonysportsten1/index.fmp4.m3u8?token=6ae06e0383aa611c55a225e9c3aa8bc89fd73037-d053534ba8e1a837d2ce481e85a6dfff-1757966721-1757955921
+#EXTINF:-1 group-title="Cloud Tv", Sony Sports Ten 5
+http://172.19.178.49:18190/sonysportsten5/index.fmp4.m3u8?token=60a29f60603283057832487f84beb51f6289e1eb-35dceb7e64fca68ecb6dcac18bd95d5a-1757966797-1757955997
