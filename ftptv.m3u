@@ -25,7 +25,7 @@ http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General", Channel 9
 http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General", Nagorik TV
-
+http://redforce.live:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=065856845be5e6f63ad68ec375b08eae2b7218f0-33085ca23b8ef8a0f7b3b9b77ea1dd62-1746312542-1746301742
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/1200px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png", Zee Bangla
 http://103.237.37.118:8888/Zee-Bangla/tracks-v1a1/mono.m3u8
 
@@ -44,7 +44,8 @@ http://172.19.178.49:18190/tsports/index.fmp4.m3u8?token=9af1f35562d80422816ee65
 #EXTINF:-1 group-title="Cloud Tv", T Sports
 
 #EXTINF:-1 group-title="Cloud Tv", PTV Sports
-
+http://redforce.live:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=8ae2e115c5dccab26d20d1901d5e8f32bdbc7a16-752dfda108c5b839319eb6acf9fbaa6e-1746312561-1746301761
 #EXTINF:-1 group-title="Cloud Tv", Sony Sports Ten 1
-
+http://redforce.live:8082/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?token=cc5912e28df311c17ea102f73500c115c7e3e7eb-fcc51978c2d335ccf2b1fbe9332153e4-1746312574-1746301774
 #EXTINF:-1 group-title="Cloud Tv", Sony Sports Ten 5
+http://redforce.live:8082/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8?token=f918532ea0a6375a3cf7b982e0666de9599c222e-edb760541135ded3d4a93e6f8371cd26-1746312584-1746301784
