@@ -36,11 +36,11 @@ http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
 Cloud Tv: http://172.19.178.180/
 
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 1
-
+http://172.19.178.149:18190/CLOUD-TV-02/index.fmp4.m3u8?token=b9904b795b949d8dd9b1f94ec6aeb00ebacaf2eb-49c8c2b0c83d77bb7ee6d605774c35d9-1758218286-1758207486
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 2
-
+http://172.19.178.29:18190/CLOUD-TV-04/index.fmp4.m3u8?token=05ddd5c60cf37c6147bf07168132b978834cdaec-3b301d1eaca68d5fe1c17e3c319b5187-1758218279-1758207479
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 3
-
+http://172.19.178.49:18190/tsports/index.fmp4.m3u8?token=9af1f35562d80422816ee6570a3e3bdab3fbe524-79bad1e708d84de722bfdcab10b6eb1f-1758218293-1758207493
 #EXTINF:-1 group-title="Cloud Tv", T Sports
 
 #EXTINF:-1 group-title="Cloud Tv", PTV Sports
