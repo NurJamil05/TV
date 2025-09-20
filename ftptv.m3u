@@ -38,7 +38,7 @@ Cloud Tv: http://172.19.178.180/
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 1
 http://172.19.178.29:18190/CLOUD-TV-04/index.fmp4.m3u8?token=5595b3691bfe6f4ec2868c8708c01fab2ef95ec2-60d813ab630ef692da7bdae2ce394f08-1758391610-1758380810
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 2
-
+http://172.31.169.169:8080/TSports/tracks-v1a1/mono.m3u8?token=d52932353b149f877edf1d2acec68835b6c87c0c-bc1ff8e2df29ccda9113b09cbc2a642d-1758392213-1758381413
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 3
 
 #EXTINF:-1 group-title="Cloud Tv", T Sports
