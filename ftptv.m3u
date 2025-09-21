@@ -25,9 +25,9 @@ http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General", Channel 9
 http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General", Nagorik TV
-http://redforce.live:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=1ecc6f58a9b0af7fe48f53ffba257c45dcbc603d-3c682415e5f195e2a2b25ef82e29f70f-1746485576-1746474776
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/1200px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png", Zee Bangla
-http://103.237.37.118:8888/Zee-Bangla/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/640px-Star_Jalsha_logo_2023.png",Star Jalsha
 http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
@@ -36,15 +36,15 @@ http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
 Cloud Tv: http://172.19.178.180/
 
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 1
-http://172.19.178.29:18190/CLOUD-TV-04/index.fmp4.m3u8?token=5595b3691bfe6f4ec2868c8708c01fab2ef95ec2-60d813ab630ef692da7bdae2ce394f08-1758391610-1758380810
+
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 2
-http://172.31.169.169:8080/TSports/tracks-v1a1/mono.m3u8?token=d52932353b149f877edf1d2acec68835b6c87c0c-bc1ff8e2df29ccda9113b09cbc2a642d-1758392213-1758381413
+
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 3
 
 #EXTINF:-1 group-title="Cloud Tv", T Sports
-http://172.19.178.49:18190/tsports/index.fmp4.m3u8?token=fd689f9c19b5442674bce3d7ace4613710060ad0-aae132f9fb51b2cf9bda9aa370e9fcd1-1758391625-1758380825
+
 #EXTINF:-1 group-title="Cloud Tv", PTV Sports
-http://172.19.178.49:18190/ptvsports/index.fmp4.m3u8?token=a780da1f560d6ffd153fe08d572d3a6a2bbdaabf-3c6407acc54019c3126119cddf746098-1758391675-1758380875
+
 #EXTINF:-1 group-title="Cloud Tv", Sony Sports Ten 1
 
 #EXTINF:-1 group-title="Cloud Tv", Sony Sports Ten 5
