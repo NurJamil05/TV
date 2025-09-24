@@ -25,7 +25,7 @@ http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General", Channel 9
 http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General", Nagorik TV
-http://redforce.live:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=2c3e4a7ec3afa5afced984c4cde9310d11e68875-13257504ea44af45208844e5c6042762-1746573838-1746563038
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/1200px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png", Zee Bangla
 
 
@@ -36,16 +36,16 @@ http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
 Cloud Tv: http://172.19.178.180/
 
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 1
-http://172.19.178.29:18190/CLOUD-TV-04/index.fmp4.m3u8?token=bbe38c21a0c2b7a6a814a62a5bb6189f9fdfd2d7-26ca7e694ec09f3d15a635986a873317-1758485400-1758474600
+
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 2
-http://172.19.178.149:18190/CLOUD-TV-02/index.fmp4.m3u8?token=c9e7264159a38b178221b2b8ce63d9d3d110903c-925d3396b13a734e23fbd832dec86ff3-1758479940-1758469140
+
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 3
 
 #EXTINF:-1 group-title="Cloud Tv", T Sports
-http://172.19.178.49:18190/tsports/index.fmp4.m3u8?token=c6619e056914d24e8154f231f38f1f623a46ba23-b655fb92d81823863ac20c5a2cb7928c-1758479947-1758469147
+
 #EXTINF:-1 group-title="Cloud Tv", PTV Sports
-http://redforce.live:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=ae9124911e7940c3052a9b046b0a2c2c78647970-20e8a2eb0de047d8da9322c12e6e93ad-1746573927-1746563127
+
 #EXTINF:-1 group-title="Cloud Tv", Sony Sports Ten 1
-http://redforce.live:8082/SONY.SPORTS.1HD/tracks-v1a1/mono.m3u8?token=e8fcd03f3c210119888f19b35b1aacb40903eb54-923b01a0ac15677ee359fd830e96dee2-1746573847-1746563047
+
 #EXTINF:-1 group-title="Cloud Tv", Sony Sports Ten 5
-http://redforce.live:8082/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8?token=b47cd08e35109da77a537e7fff57295a7aa9219b-3d7e35eca1b83881e57bcbfe9f2a110b-1746573866-1746563066
+
