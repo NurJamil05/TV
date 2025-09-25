@@ -42,10 +42,13 @@ http://172.19.178.149:18190/CLOUD-TV-02/index.fmp4.m3u8?token=5e6bf71be91d5dbe9e
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 3
 http://172.19.178.29:18190/CLOUD-TV-04/index.fmp4.m3u8?token=5df84d6fc830b61d95b7d8ea6d6e810daa9d8d2f-86cdb27e7e49a90a6e88ac5b99eb3370-1758817637-1758806837
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 4
-
+http://10.200.200.2:8088/125/video.m3u8?token=apnnactg
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 5
+http://10.200.200.2:8088/102/video.m3u8?token=apnnactg
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 6
+http://10.200.200.2:8088/119/video.m3u8?token=apnnactg
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 7
+http://10.200.200.2:8088/121/video.m3u8?token=apnnactg
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 8
 
 #EXTINF:-1 group-title="Cloud Tv", PTV Sports
