@@ -41,7 +41,12 @@ http://172.19.178.49:18190/tsports/tracks-v1/index.fmp4.m3u8?token=7bebb8a0f447d
 http://172.19.178.149:18190/CLOUD-TV-02/index.fmp4.m3u8?token=5e6bf71be91d5dbe9e3238975a3e65ef7c6cffe6-dec6e60c1ffca50b1a51cd824f6fa8ab-1758818451-1758807651
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 3
 http://172.19.178.29:18190/CLOUD-TV-04/index.fmp4.m3u8?token=5df84d6fc830b61d95b7d8ea6d6e810daa9d8d2f-86cdb27e7e49a90a6e88ac5b99eb3370-1758817637-1758806837
-#EXTINF:-1 group-title="Cloud Tv", T Sports
+#EXTINF:-1 group-title="Cloud Tv", Asia Cup 4
+
+#EXTINF:-1 group-title="Cloud Tv", Asia Cup 5
+#EXTINF:-1 group-title="Cloud Tv", Asia Cup 6
+#EXTINF:-1 group-title="Cloud Tv", Asia Cup 7
+#EXTINF:-1 group-title="Cloud Tv", Asia Cup 8
 
 #EXTINF:-1 group-title="Cloud Tv", PTV Sports
 http://redforce.live:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=7c876c48b8b2869474cbf2262360681b0ce277c4-7c5572057581b6a62b76c3ce90f6f64f-1746911665-1746900865
