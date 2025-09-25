@@ -25,7 +25,7 @@ http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General", Channel 9
 http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General", Nagorik TV
-
+http://redforce.live:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=3ba451945d595625a14ba6db7578a8ddc5b8651d-b24d58970d334675db31aa9bb27fcc59-1746912589-1746901789
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/1200px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png", Zee Bangla
 
 
@@ -36,16 +36,16 @@ http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
 Cloud Tv: http://172.19.178.180/
 
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 1
-
+http://172.19.178.49:18190/tsports/tracks-v1/index.fmp4.m3u8?token=7bebb8a0f447dd19e8662c5831f2576592a85454-662515d17955cd8ce96ecc8380df6c3f-1758818457-1758807657
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 2
-
+http://172.19.178.149:18190/CLOUD-TV-02/index.fmp4.m3u8?token=5e6bf71be91d5dbe9e3238975a3e65ef7c6cffe6-dec6e60c1ffca50b1a51cd824f6fa8ab-1758818451-1758807651
 #EXTINF:-1 group-title="Cloud Tv", Asia Cup 3
-
+http://172.19.178.29:18190/CLOUD-TV-04/index.fmp4.m3u8?token=5df84d6fc830b61d95b7d8ea6d6e810daa9d8d2f-86cdb27e7e49a90a6e88ac5b99eb3370-1758817637-1758806837
 #EXTINF:-1 group-title="Cloud Tv", T Sports
 
 #EXTINF:-1 group-title="Cloud Tv", PTV Sports
-
+http://redforce.live:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=7c876c48b8b2869474cbf2262360681b0ce277c4-7c5572057581b6a62b76c3ce90f6f64f-1746911665-1746900865
 #EXTINF:-1 group-title="Cloud Tv", Sony Sports Ten 1
 
 #EXTINF:-1 group-title="Cloud Tv", Sony Sports Ten 5
-
+http://redforce.live:8082/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8?token=409e2929ed5a910d4f771ee9262b51017623ac6a-921d7fb249511051a290656aaa6e0313-1746911668-1746900868
