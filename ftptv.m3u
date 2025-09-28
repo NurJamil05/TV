@@ -20,12 +20,13 @@ http://172.17.50.112:84/ant1006/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="General", Channel 7
 http://172.17.50.112:84/ant1007/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="General", Channel 8
 http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="General", Channel 9
 http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/1200px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png", Zee Bangla
-
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/640px-Star_Jalsha_logo_2023.png",Star Jalsha
 http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
@@ -37,23 +38,23 @@ Cloud Tv: http://172.19.178.180/
 http://redforce.live:8082/NAGORIK.TV.HD/index.m3u8?token=06b8e7afd01ab59fca19b0ed230ac70c5576f7e1-e641f754e80ac990fa161a04cb37ba26-1747174846-1747164046&remote=no_check_ip
 #EXTINF:-1 group-title="Asia Cup", T Sports (Cinehub)
 http://172.31.169.169:8080/TSports/tracks-v1a1/mono.m3u8?token=8c775eb2513b3829da97576efaf978d76c4aea21-6aac5803252c7949fc70daf75ecbfc32-1759080806-1759070006
-#EXTINF:-1 group-title="Asia Cup", Asia Cup 2
-
-#EXTINF:-1 group-title="Asia Cup", Asia C
-
-#EXTINF:-1 group-title="Asia Cup", Asia Cup 4
-http://10.200.200.2:8088/125/video.m3u8?token=apnnactg
-#EXTINF:-1 group-title="", Asia Cup 5
-http://10.200.200.2:8088/102/video.m3u8?token=apnnactg
-#EXTINF:-1 group-title="Asia Cup", Asia Cup 6
+#EXTINF:-1 group-title="Asia Cup", F2M 1
+http://172.19.1.2/tsports_b/index.m3u8
+#EXTINF:-1 group-title="Asia Cup", F2M 2
+http://172.19.1.2/tsports2/index.m3u8
+#EXTINF:-1 group-title="Asia Cup", F2M 3
+http://172.19.1.2/tsports3/index.m3u8
+#EXTINF:-1 group-title="Asia Cup", F2M 4
+http://172.19.1.2/asiacup_1/index.m3u8
+#EXTINF:-1 group-title="Asia Cup", APNA 1
 http://10.200.200.2:8088/119/video.m3u8?token=apnnactg
-#EXTINF:-1 group-title="Asia Cup", Asia Cup 7
+#EXTINF:-1 group-title="Asia Cup", APNA 2
 http://10.200.200.2:8088/121/video.m3u8?token=apnnactg
-#EXTINF:-1 group-title="Asia Cup", Asia Cup 8
+#EXTINF:-1 group-title="Asia Cup", APNA 3
 
-#EXTINF:-1 group-title="Asia Cup", PTV Sports
-http://redforce.live:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=7c876c48b8b2869474cbf2262360681b0ce277c4-7c5572057581b6a62b76c3ce90f6f64f-1746911665-1746900865
-#EXTINF:-1 group-title="Asia Cup", Sony Sports Ten 1
+#EXTINF:-1 group-title="Asia Cup", 
+
+#EXTINF:-1 group-title="Asia Cup",
 
 #EXTINF:-1 group-title="Asia Cup", Sony Sports Ten 5
 
