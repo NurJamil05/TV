@@ -24,7 +24,6 @@ http://172.17.50.112:84/ant1007/tracks-v1a1/mono.m3u8
 http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General", Channel 9
 http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Asia Cup", Nagorik TV
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/1200px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png", Zee Bangla
 
 
@@ -34,8 +33,10 @@ http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
 
 Cloud Tv: http://172.19.178.180/
 
-#EXTINF:-1 group-title="Asia Cup", Asia Cup 1
-
+#EXTINF:-1 group-title="Asia Cup", Nagorik TV
+http://redforce.live:8082/NAGORIK.TV.HD/index.m3u8?token=06b8e7afd01ab59fca19b0ed230ac70c5576f7e1-e641f754e80ac990fa161a04cb37ba26-1747174846-1747164046&remote=no_check_ip
+#EXTINF:-1 group-title="Asia Cup", T Sports (Cinehub)
+http://172.31.169.169:8080/TSports/tracks-v1a1/mono.m3u8?token=8c775eb2513b3829da97576efaf978d76c4aea21-6aac5803252c7949fc70daf75ecbfc32-1759080806-1759070006
 #EXTINF:-1 group-title="Asia Cup", Asia Cup 2
 
 #EXTINF:-1 group-title="Asia Cup", Asia C
