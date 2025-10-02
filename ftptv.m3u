@@ -35,7 +35,7 @@ http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
 Cloud Tv: http://172.19.178.180/
 
 #EXTINF:-1 group-title="Asia Cup", Nagorik TV
-http://redforce.live:8082/NAGORIK.TV.HD/index.m3u8?token=06b8e7afd01ab59fca19b0ed230ac70c5576f7e1-e641f754e80ac990fa161a04cb37ba26-1747174846-1747164046&remote=no_check_ip
+http://redforce.live:8082/NAGORIK.TV.HD/index.m3u8?token=bb6175e2d48f95d34fb6ececdd00af934eb6e57c-df8b74f0ce6b09987b2834970436bcac-1747524036-1747513236&remote=no_check_ip
 #EXTINF:-1 group-title="Asia Cup", T Sports (Cinehub)
 http://172.31.169.169:8080/TSports/tracks-v1a1/mono.m3u8?token=8c775eb2513b3829da97576efaf978d76c4aea21-6aac5803252c7949fc70daf75ecbfc32-1759080806-1759070006
 #EXTINF:-1 group-title="Asia Cup", F2M 1
