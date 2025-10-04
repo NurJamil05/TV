@@ -53,10 +53,9 @@ http://10.200.200.2:8088/121/video.m3u8?token=apnnactg
 #EXTINF:-1 group-title="Asia Cup", APNA 3
 
 #EXTINF:-1 group-title="Asia Cup", TAPMAD 1
-https://saseries.akamaized.net/hls/live/2110097/tappak/master.m3u8?hdnts=exp=1759561982~acl=/hls/*~hmac=63d6a6c2975a0a83d5e92c2f947f81ce26149673879cf488d5e73d76f9b493fd
+https://saseries.akamaized.net/hls/live/2110097/tappak/master.m3u8?hdnts=exp=1759564022~acl=/hls/*~hmac=fa017c9a6360671b9a61b5aacd5510864e7e46cba741e28941d19a50bce12b91
 #EXTINF:-1 group-title="Asia Cup", TAPMAD 2
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1759562261~acl=/hls/*~hmac=69474555388eb96f68428d9593ffb2a2530ffb803d69303365cfb7e4205ed5b7
-
+https://saseries.akamaized.net/hls/live/2110097/tappak/hdntl=exp=1759649549~acl=%2f*~data=hdntl~hmac=53e3971e56bc52d7bb9cce1650fa632194fc083569065f8035e56db087c535a6/level_1.m3u8
 #EXTINF:-1 group-title="Asia Cup", TAPMAD 3
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad301-PTV/master.m3u8
 
