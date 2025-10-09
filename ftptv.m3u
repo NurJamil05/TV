@@ -28,11 +28,7 @@ http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="General", Channel 10
-http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian Bangla", Zee Bangla
-
-#EXTINF:-1 group-title="Indian Bangla",Star Jalsha
-
+http://172.17.50.112:84/ant1010/tracks-v1a1/mono.m3u8
 
 
 Cloud Tv: http://172.19.178.180/
@@ -71,6 +67,10 @@ http://172.19.1.2/sports4/index.m3u8
 
 #EXTINF:-1 group-title="Sports", BP5(33-40)
 
-#EXTINF:-1 group-title="Sports", TAPMAD 2
+#EXTINF:-1 group-title="Sports", 
+
+#EXTINF:-1 group-title="Sports",
+
+#EXTINF:-1 group-title="Sports",
 
 
