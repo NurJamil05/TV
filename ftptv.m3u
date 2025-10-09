@@ -21,10 +21,13 @@ http://172.17.50.112:84/ant1006/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General", Channel 7
 http://172.17.50.112:84/ant1007/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", Channel 8
+#EXTINF:-1 group-title="General" tvg-logo="", Channel 8
 http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="General", Channel 9
+http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="General", Channel 10
 http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla", Zee Bangla
 
@@ -34,40 +37,40 @@ http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
 
 Cloud Tv: http://172.19.178.180/
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", Nagorik TV(Redforce)
-http://redforce.live:8082/NAGORIK.TV.HD/index.m3u8?token=798ea1ded231fc5c7fe58483116eacef614608b2-0b8fb154fb558f93004a3a21800fbe07-1748123088-1748112288&remote=no_check_ip
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", Nagorik TV((Cloud Tv)
-http://172.19.178.39:18190/nagorik_tv/index.fmp4.m3u8?token=53f38549f62a2b9d4e81c3075916d46f277064bb-af4a9038042a87055ac1824ddb0ff3e8-1760029294-1760018494
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", Nagorik TV(Others1)
+#EXTINF:-1 group-title="Sports" tvg-logo="", Nagorik TV(Redforce)
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", Nagorik TV((Cloud Tv)
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", Nagorik TV(Others1)
 http://stvlive.net:8080/nagorik/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Cloud Tv1)
-http://172.19.178.49:18190/t_sports/index.fmp4.m3u8?token=6d3ba87674414d5869871e5dd70f42a62c27bb21-9b54ca5564a8ec596dbf43d4cad43b06-1760029102-1760018302
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Cloud Tv2)
-http://172.19.178.29:18190/CLOUD-TV-04/index.fmp4.m3u8?token=cc02e56e011efdad8ee2e4abed824eb7372b7aff-e67936d2add43c727a3e2b1030ea9429-1760029091-1760018291
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Cloud Tv 3)
+#EXTINF:-1 group-title="Sports" tvg-logo="", T Sports (Cloud Tv1)
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Cinehub)
-http://172.31.169.169:8080/TSports/tracks-v1a1/mono.m3u8?token=792cd62ad5600c527005b9e0ab61b123e941425d-906fc71f547d19c4fc468dfdbfe3d8d7-1760029353-1760018553
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Other1)
+#EXTINF:-1 group-title="Sports" tvg-logo="", T Sports (Cloud Tv2)
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", T Sports (Cloud Tv 3)
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", T Sports (Cinehub)
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", T Sports (Other1)
 http://10.16.100.213:8080/hls/tsports.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Other2)
+#EXTINF:-1 group-title="Sports" tvg-logo="", T Sports (Other2)
 http://147.93.154.65/Bein3/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Other3)
+#EXTINF:-1 group-title="Sports" tvg-logo="", T Sports (Other3)
 http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", F2M 1
+#EXTINF:-1 group-title="Sports" tvg-logo="", F2M 1
 http://172.19.1.2/sports1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", F2M 2
+#EXTINF:-1 group-title="Sports" tvg-logo="", F2M 2
 http://172.19.1.2/sports2/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", F2M 3
+#EXTINF:-1 group-title="Sports" tvg-logo="", F2M 3
 http://172.19.1.2/sports3/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", F2M 4
+#EXTINF:-1 group-title="Sports" tvg-logo="", F2M 4
 http://172.19.1.2/sports4/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", F2M 5
+#EXTINF:-1 group-title="Sports" tvg-logo="", F2M 5
 
-#EXTINF:-1 group-title="Sports", BP5
-https://wrgr56.b-cdn.net/s2/upload/videos/2025/10/[Fibwatch.Com]Bachelor.Point.S05E33-40.4K.mkv
+#EXTINF:-1 group-title="Sports", TAPMAD 1
+
 #EXTINF:-1 group-title="Sports", BP5(33-40)
-https://wrgr56.b-cdn.net/s2/upload/videos/2025/10/[Fibwatch.Com]Bachelor.Point.S05E33-40.1080p.mkv
-#EXTINF:-1 group-title="Sports", TAPMAD 3
+
+#EXTINF:-1 group-title="Sports", TAPMAD 2
 
 
