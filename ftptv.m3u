@@ -21,7 +21,7 @@ http://172.17.50.112:84/ant1006/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="General", Channel 7
 http://172.17.50.112:84/ant1007/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="General", Channel 8
+#EXTINF:-1 group-title="General"tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", Channel 8
 http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="General", Channel 9
@@ -34,27 +34,27 @@ http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
 
 Cloud Tv: http://172.19.178.180/
 
-#EXTINF:-1 group-title="Sports", Nagorik TV(Redforce)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", Nagorik TV(Redforce)
 
-#EXTINF:-1 group-title="Sports", Nagorik TV((Cloud Tv)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", Nagorik TV((Cloud Tv)
 
-#EXTINF:-1 group-title="Sports", T Sports (Cloud Tv1)
+#EXTINF:-1 group-title="Sports"tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Cloud Tv1)
 
-#EXTINF:-1 group-title="Sports", T Sports (Cloud Tv2)
+#EXTINF:-1 group-title="Sports"tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Cloud Tv2)
 
-#EXTINF:-1 group-title="Sports", T Sports (Cloud Tv 3)
+#EXTINF:-1 group-title="Sports"tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Cloud Tv 3)
 
-#EXTINF:-1 group-title="Sports", T Sports (Cinehub)
+#EXTINF:-1 group-title="Sports"tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Cinehub)
 
-#EXTINF:-1 group-title="Sports", F2M 1
+#EXTINF:-1 group-title="Sports"tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", F2M 1
 
-#EXTINF:-1 group-title="Sports", F2M 2
+#EXTINF:-1 group-title="Sports"tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", F2M 2
 
-#EXTINF:-1 group-title="Sports", F2M 3
+#EXTINF:-1 group-title="Sports"tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", F2M 3
 
-#EXTINF:-1 group-title="Sports", F2M 4
+#EXTINF:-1 group-title="Sports"tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", F2M 4
 
-#EXTINF:-1 group-title="Sports", F2M 5
+#EXTINF:-1 group-title="Sports"tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", F2M 5
 
 #EXTINF:-1 group-title="Sports", TAPMAD 1
 
