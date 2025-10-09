@@ -37,7 +37,7 @@ Cloud Tv: http://172.19.178.180/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", Nagorik TV(Redforce)
 http://redforce.live:8082/NAGORIK.TV.HD/index.m3u8?token=798ea1ded231fc5c7fe58483116eacef614608b2-0b8fb154fb558f93004a3a21800fbe07-1748123088-1748112288&remote=no_check_ip
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", Nagorik TV((Cloud Tv)
-
+http://172.19.178.39:18190/nagorik_tv/index.fmp4.m3u8?token=53f38549f62a2b9d4e81c3075916d46f277064bb-af4a9038042a87055ac1824ddb0ff3e8-1760029294-1760018494
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", Nagorik TV(Others1)
 http://stvlive.net:8080/nagorik/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Cloud Tv1)
@@ -47,7 +47,7 @@ http://172.19.178.29:18190/CLOUD-TV-04/index.fmp4.m3u8?token=cc02e56e011efdad8ee
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Cloud Tv 3)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Cinehub)
-
+http://172.31.169.169:8080/TSports/tracks-v1a1/mono.m3u8?token=792cd62ad5600c527005b9e0ab61b123e941425d-906fc71f547d19c4fc468dfdbfe3d8d7-1760029353-1760018553
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Other1)
 http://10.16.100.213:8080/hls/tsports.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", T Sports (Other2)
