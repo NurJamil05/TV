@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="General", Channel 1
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/77236ce2-e103-4cef-948d-1dbe23b6fa67.jpg", Channel 1
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="General", Channel 2
