@@ -39,6 +39,8 @@ Cloud Tv: http://172.19.178.180/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Nagorik TV(Others1)
 http://stvlive.net:8080/nagorik/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (APNA)
+http://10.200.200.2:8088/102/video.m3u8?token=apnnactg
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cloud Tv1)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cloud Tv2)
