@@ -69,7 +69,8 @@ http://172.19.1.2/sports4/index.m3u8
 https://tapmad-live.cdn.vustreams.com/live/5c71291d-018e-42d2-97b9-119854c05079/live.isml/5c71291d-018e-42d2-97b9-119854c05079.m3u8
 #EXTINF:-1 group-title="Sports", BP5(33-40)
 
-#EXTINF:-1 group-title="Sports", 
+#EXTINF:-1 group-title="Sports", TAPMAD 2
+https://premierleagpl23.akamaized.net/hls/live/2107108/TapAsiaCup-Main/master.m3u8
 
 #EXTINF:-1 group-title="Sports",
 
