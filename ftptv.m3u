@@ -66,7 +66,7 @@ http://172.19.1.2/sports4/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063746.jpg", F2M 5
 
 #EXTINF:-1 group-title="Sports", TAPMAD 1
-
+https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1760459402~acl=/hls/*~hmac=fccc457b61729fbee47d7c7336d6b79c1bc09490ed3bf701eb53b215597e52d1
 #EXTINF:-1 group-title="Sports", BP5(33-40)
 
 #EXTINF:-1 group-title="Sports", TAPMAD 2
