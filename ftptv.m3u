@@ -1,5 +1,33 @@
 #EXTM3U
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", Channel 1
+http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063935.jpg", Channel 2
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063935.jpg", Channel 3
+http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063935.jpg", Channel 4
+http://103.237.37.118:8888/ant1004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063935.jpg", Channel 5
+http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063935.jpg", Channel 6
+http://172.17.50.112:84/ant1006/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Channel 7
+http://172.17.50.112:84/ant1007/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", Channel 8
+http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063935.jpg", Channel 9
+http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063935.jpg", Channel 10
+http://172.17.50.112:84/ant1010/tracks-v1a1/mono.m3u8
 
 Cloud Tv: http://172.19.178.180/
 
