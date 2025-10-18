@@ -38,7 +38,7 @@ http://172.19.1.2/sports4/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 2
-
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc.Three00/master.m3u8
 #EXTINF:-1 group-title="Sports",tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 3
 
 #EXTINF:-1 group-title="Sports",
