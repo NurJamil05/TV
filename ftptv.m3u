@@ -34,19 +34,19 @@ Cloud Tv: http://172.19.178.180/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Nagorik TV(Redforce)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Nagorik TV((Cloud Tv)
-
+http://172.19.178.39:18190/nagorik_tv/index.fmp4.m3u8?token=bacacadcbe1cc7d1b8ce324181750496b05f0473-b219c5034188c00b526b8e65fda6300f-1761041318-1761030518
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Nagorik TV(Others1)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (APNA)
 http://10.200.200.2:8088/102/video.m3u8?token=apnnactg
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cloud Tv1)
-
+http://172.19.178.29:18190/SN-E01-01/index.fmp4.m3u8?token=29c49b97146dbf629c54dc453207be5a5dba5015-0c82f70ef07514145c60757d01162c20-1761041358-1761030558
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cloud Tv2)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cloud Tv 3)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cinehub)
-
+http://flix.11plus.live:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=943c75f6297f656c795b6771119008c99dc2b86a-d9cf61e923ced5572690017c6edaac57-1761041528-1761030728
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cinehub2)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Other1)
