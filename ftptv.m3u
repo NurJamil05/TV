@@ -66,11 +66,11 @@ http://172.19.1.2/sports4/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063746.jpg", F2M 5
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 1
-
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad57842301/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 2
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc.Three00/master.m3u8
 #EXTINF:-1 group-title="Sports",tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 3
-
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc.Three01/master.m3u8
 #EXTINF:-1 group-title="Sports",
 
 #EXTINF:-1 group-title="Sports", BP5(41-48)
