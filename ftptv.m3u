@@ -65,12 +65,11 @@ http://172.19.1.2/sports3/index.m3u8
 http://172.19.1.2/sports4/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063746.jpg", F2M 5
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 1
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad57842301/master.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 2
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc.Three00/master.m3u8
-#EXTINF:-1 group-title="Sports",tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 3
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-Enc.Three01/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1761205990~acl=/hls/*~hmac=410363afdc62382f3c34a69cd20baf4076a28b3a0926e61a41c82acca45bc87e
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", Fancode
+https://bd-mc-fdlive.fancode.com/mumbai/137702_english_hls_a99a194daf68548ta-di_h264/1080p.m3u8
+#EXTINF:-1 group-title="Sports",tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 
 #EXTINF:-1 group-title="Sports",
 
 #EXTINF:-1 group-title="Sports", BP5(41-48)
