@@ -40,11 +40,11 @@ http://172.19.178.39:18190/nagorik_tv/tracks-v1/index.fmp4.m3u8?token=4e8c8946e9
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (APNA)
 http://10.200.200.2:8088/102/video.m3u8?token=apnnactg
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cloud Tv1)
-http://172.19.178.29:18190/AO-E01-02/tracks-v1/index.fmp4.m3u8?token=a1a8dbc57f73957119308161f9d24f6f1d371111-7584a728b46a9aa3d1bc8b536318854e-1761222227-1761211427
+http://172.19.178.49:18190/t_sports/index.fmp4.m3u8?token=cbf3695c0cc648637215e31613335dd1c0acecbf-23b84a1023b0dd4b3a237ba4fd92edef-1761225398-1761214598
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cloud Tv2)
-http://172.19.178.29:18190/SN-E01-01/tracks-a1/index.fmp4.m3u8?token=b349adb9ebe1ee934370c4f26d084ac06c6cff7f-88321d8708e4fc8ff94b8c17108c0ff0-1761222240-1761211440
+http://172.19.178.29:18190/SN-E01-01/index.fmp4.m3u8?token=06d8b594d8b56d98becf65594f177efc61045d06-683e011325fc936bbc36aa6af04a2bae-1761225325-1761214525
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cloud Tv 3)
-http://172.19.178.49:18190/t_sports/tracks-v1/index.fmp4.m3u8?token=f34b1ea7b7334c9c53cb628ea6b960f9a6d64ac4-b984982e534918b5ad7fe1665a83a600-1761222259-1761211459
+http://172.19.178.29:18190/AO-E01-02/index.fmp4.m3u8?token=a57b8484bfe9f0ef17e217186dc21e990b6f160f-efa6f39d2f438dfc15a54a43ea1bd30b-1761225313-1761214513
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cinehub)
 http://flix.11plus.live:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=b8a9abe42effc4ab16ea0f8b02db57590cabd45e-8b9c5567848cc5ca0bad13dfffa4ba8f-1761222365-1761211565
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cinehub2)
