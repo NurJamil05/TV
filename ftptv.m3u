@@ -45,7 +45,8 @@ http://172.19.178.49:18190/t_sports/index.fmp4.m3u8?token=cbf3695c0cc648637215e3
 http://172.19.178.29:18190/SN-E01-01/index.fmp4.m3u8?token=06d8b594d8b56d98becf65594f177efc61045d06-683e011325fc936bbc36aa6af04a2bae-1761225325-1761214525
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cloud Tv 3)
 http://172.19.178.29:18190/AO-E01-02/index.fmp4.m3u8?token=a57b8484bfe9f0ef17e217186dc21e990b6f160f-efa6f39d2f438dfc15a54a43ea1bd30b-1761225313-1761214513
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cinehub)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Redforce)
+http://redforce.live:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=d4f31730b18b41a19d19ca4f89cc934fdd456cde-b9063a347b2c2874df8780cb5145dba9-1745864458-1745853658
 http://flix.11plus.live:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=b8a9abe42effc4ab16ea0f8b02db57590cabd45e-8b9c5567848cc5ca0bad13dfffa4ba8f-1761222365-1761211565
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cinehub2)
 
