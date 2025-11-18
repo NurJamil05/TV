@@ -32,7 +32,7 @@ http://172.17.50.112:84/ant1010/tracks-v1a1/mono.m3u8
 Cloud Tv: http://172.19.178.180/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Nagorik TV(Redforce)
-http://redforce.live:8082/NAGORIK.TV.HD/index.m3u8?token=10324412c94867e04b9b8563da8a46851c3cdb4f-bf54cd4e2e185ce5922d962e947a34d6-1745860258-1745849458&remote=no_check_ip
+http://redforce.live:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=699d02b014aaf5bc664ed96ec34a600a8669f9a4-13954a2b90f337239884f8c9e517e6a9-1748122596-1748111796
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Nagorik TV((Cloud Tv)
 http://172.19.178.39:18190/nagorik_tv/tracks-v1/index.fmp4.m3u8?token=4e8c8946e95f0d7bc5c9f1fd1b4605811eb1a246-cc76d43cdcf2db985f9ec40169d5c73e-1761222207-1761211407
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Nagorik TV(Others1)
@@ -46,7 +46,7 @@ http://172.19.178.29:18190/SN-E01-01/index.fmp4.m3u8?token=06d8b594d8b56d98becf6
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cloud Tv 3)
 http://172.19.178.29:18190/AO-E01-02/index.fmp4.m3u8?token=a57b8484bfe9f0ef17e217186dc21e990b6f160f-efa6f39d2f438dfc15a54a43ea1bd30b-1761225313-1761214513
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Redforce)
-http://redforce.live:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=d4f31730b18b41a19d19ca4f89cc934fdd456cde-b9063a347b2c2874df8780cb5145dba9-1745864458-1745853658
+http://redforce.live:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=9c4cefacfe90805447896dfdb238bef29802e608-55967d859c16e92e149b2fa5e7b3f283-1748122630-1748111830
 http://flix.11plus.live:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=b8a9abe42effc4ab16ea0f8b02db57590cabd45e-8b9c5567848cc5ca0bad13dfffa4ba8f-1761222365-1761211565
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cinehub2)
 
