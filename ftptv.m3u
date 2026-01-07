@@ -32,9 +32,8 @@ http://172.17.50.112:84/ant1010/tracks-v1a1/mono.m3u8
 Cloud Tv: http://172.19.178.180/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Nagorik TV(Redforce)
-http://redforce.live:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=699d02b014aaf5bc664ed96ec34a600a8669f9a4-13954a2b90f337239884f8c9e517e6a9-1748122596-1748111796
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Nagorik TV((Cloud Tv)
-http://172.19.178.39:18190/nagorik_tv/tracks-v1/index.fmp4.m3u8?token=4e8c8946e95f0d7bc5c9f1fd1b4605811eb1a246-cc76d43cdcf2db985f9ec40169d5c73e-1761222207-1761211407
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Nagorik TV(Others1)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (APNA)
@@ -73,6 +72,7 @@ https://bd-mc-fdlive.fancode.com/mumbai/137705_english_hls_56e46184e037449_1ta-d
 #EXTINF:-1 group-title="Sports",tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 
 #EXTINF:-1 group-title="Sports",
 
-#EXTINF:-1 group-title="Sports", BP5(41-48)
+#EXTINF:-1 group-title="Sports", Solh tv
+https://stream.snexus.co/live/SN_WILDLIFE/index.m3u8
 
 
