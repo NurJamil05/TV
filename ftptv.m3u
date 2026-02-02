@@ -119,8 +119,6 @@ http://172.20.5.1/webplayer/webplayer/399.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063935.jpg", Channel 10
 
 
-Cloud Tv: http://172.19.178.180/
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Nagorik TV(Redforce)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062347.jpg", Nagorik TV((Cloud Tv)
@@ -137,6 +135,7 @@ http://10.200.200.2:8088/102/video.m3u8?token=apnnactg
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Redforce)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Cinehub2)
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Other1)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Other2)
@@ -144,21 +143,22 @@ http://10.200.200.2:8088/102/video.m3u8?token=apnnactg
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", T Sports (Other3)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063746.jpg", F2M 1
-http://172.19.1.2/sports1/index.m3u8
+http://172.19.1.2/9090801/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063746.jpg", F2M 2
-http://172.19.1.2/sports2/index.m3u8
+http://172.19.1.2/9346574/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063746.jpg", F2M 3
-http://172.19.1.2/sports3/index.m3u8
+http://172.19.1.2/9865678/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063746.jpg", F2M 4
-http://172.19.1.2/sports4/index.m3u8
+http://172.19.1.2/63463433/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_063746.jpg", F2M 5
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 
-https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1761214443~acl=/hls/*~hmac=b8fbf1d9cff2d464e64128930c285396faa86cbf30ec3eb70dd0997a923b7199
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hXbtdEslHwdozijTXSd0o-7Di_bCWXYR_TsGuaqFag&s",Fancode
-https://bd-mc-fdlive.fancode.com/mumbai/137705_english_hls_56e46184e037449_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 group-title="Sports",tvg-logo="https://cdn.brandfetch.io/idlQ18PyXK/w/143/h/36/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1756454222874", TAPMAD 
+
 #EXTINF:-1 group-title="Sports",
 
 #EXTINF:-1 group-title="Sports", Solh tv
-https://stream.snexus.co/live/SN_WILDLIFE/index.m3u8
+
