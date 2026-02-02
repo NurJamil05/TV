@@ -1,4 +1,94 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 1
+http://172.20.5.1/webplayer/webplayer/370.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 2
+http://172.20.5.1/webplayer/webplayer/371.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 3
+http://172.20.5.1/webplayer/webplayer/372.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 4
+http://172.20.5.1/webplayer/webplayer/373.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 5
+http://172.20.5.1/webplayer/webplayer/374.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 6
+http://172.20.5.1/webplayer/webplayer/375.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 7
+http://172.20.5.1/webplayer/webplayer/376.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 8
+http://172.20.5.1/webplayer/webplayer/377.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 9
+http://172.20.5.1/webplayer/webplayer/378.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 10
+http://172.20.5.1/webplayer/webplayer/379.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 11
+http://172.20.5.1/webplayer/webplayer/380.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 12
+http://172.20.5.1/webplayer/webplayer/381.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 13
+http://172.20.5.1/webplayer/webplayer/382.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 14
+http://172.20.5.1/webplayer/webplayer/383.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 15
+http://172.20.5.1/webplayer/webplayer/384.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 16
+http://172.20.5.1/webplayer/webplayer/385.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 17
+http://172.20.5.1/webplayer/webplayer/386.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 18
+http://172.20.5.1/webplayer/webplayer/387.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 19
+http://172.20.5.1/webplayer/webplayer/388.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 20
+http://172.20.5.1/webplayer/webplayer/389.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 21
+http://172.20.5.1/webplayer/webplayer/390.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 22
+http://172.20.5.1/webplayer/webplayer/391.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 23
+http://172.20.5.1/webplayer/webplayer/392.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 24
+http://172.20.5.1/webplayer/webplayer/393.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 25
+http://172.20.5.1/webplayer/webplayer/394.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 26
+http://172.20.5.1/webplayer/webplayer/395.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 27
+http://172.20.5.1/webplayer/webplayer/396.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 28
+http://172.20.5.1/webplayer/webplayer/397.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 29
+http://172.20.5.1/webplayer/webplayer/398.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 30
+http://172.20.5.1/webplayer/webplayer/399.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", Channel 1
 
 
