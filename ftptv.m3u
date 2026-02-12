@@ -163,86 +163,94 @@ http://172.19.1.2/63463433/index.m3u8
 #EXTINF:-1 group-title="Sports", Solh tv
 
 
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 1
-http://172.19.178.39:18190/atn_news/index.fmp4.m3u8?token=84a4d395b0e409306a94b567ebf9c1233ac08214-a217bda6498ba7c5ee57551eff1a69cc-1770870583-1770859783
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 2
-http://172.19.178.39:18190/btv_news/index.fmp4.m3u8?token=f8337e927c80fcc54b901fcd63a87cea9d73e4ae-853e76f870ba842b1ad91b58ed4ccf9b-1770870594-1770859794
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 3
-http://172.19.178.39:18190/channel_24/index.fmp4.m3u8?token=69026dafd7c6fd2c9254840517ee5eedea273fb6-ead52ff74357142ebc3daeaeb4d10738-1770870602-1770859802
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 4
-http://172.19.178.39:18190/dbc_news/index.fmp4.m3u8?token=269ad63baf93ea3765d7d20aff46638bc1af712a-10396933e33a9021bae8b3fccd812dac-1770870612-1770859812
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 5
-http://172.19.178.39:18190/ekhon_tv/index.fmp4.m3u8?token=3ef357e82ddb8764c2b32c490bee41f896a0195d-8748e3ce0e1b06f937c8a84acb154d32-1770870619-1770859819
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 6
-http://172.19.178.39:18190/independent_tv/index.fmp4.m3u8?token=6df7b5d40a67587a84e4d006c2234b9cf360ec2d-99f5354cf643d42102d0e5aa3088db64-1770870626-1770859826
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 7
-http://172.19.178.39:18190/jamuna_tv/index.fmp4.m3u8?token=0c4a9892fd64141391bf7c660ffd27c6a36aedb8-0b7d1217d8187d99c3a731140a9fc77b-1770870633-1770859833
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 8
-http://172.19.178.39:18190/news24/index.fmp4.m3u8?token=6eebc13dbede1c47112fa15b6c0a6b4b4bd773e3-79fc4b5d80db534d9bf5508d39efc0d8-1770870641-1770859841
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 9
-http://172.19.178.39:18190/somoy_tv/index.fmp4.m3u8?token=e2428af08d868cc3ce18026e3e31c8a5982e5b01-9eb7f7931623324a35ec2d51fe5cd2e1-1770870648-1770859848
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 10
-http://172.19.178.39:18190/71/index.fmp4.m3u8?token=42c097c1142441e9244d91250ead8c1585ce52fb-bbc47efecca7330d2c74639febdf7fe3-1770870655-1770859855
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 11
-http://172.19.178.39:18190/btv/index.fmp4.m3u8?token=016b0b95485bcccf4a3caa3cc6c03eae69407c30-be9c8418e36d744d165d19d74bcf1f6f-1770870969-1770860169
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 12
-http://172.19.178.39:18190/channel_i/index.fmp4.m3u8?token=04e731c1bb1c4f1dfff1ff853e20b2bacc3164b7-f6548feda11383fcb4c8fd8c62837fa7-1770870978-1770860178
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 13
-http://172.19.178.39:18190/channel9/index.fmp4.m3u8?token=b22524018314131cc1df3a78293843e0951015b2-f3a96e24b84cc229d4b989d739a2289d-1770870987-1770860187
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 14
-http://172.19.178.39:18190/deepto_tv/index.fmp4.m3u8?token=19a0b3ca341589eecb33caa8e68904d5ff841cb5-2fbd4edb688194ee02126218a428db2f-1770870995-1770860195
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 15
-http://172.19.178.39:18190/desh_tv/index.fmp4.m3u8?token=f7f160412d2ba720eadcbb1d1592fbce1938246d-038a5e20beb1f3c463e0d897028d3058-1770871003-1770860203
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 16
-http://172.19.178.39:18190/etv/index.fmp4.m3u8?token=3eccb6877a050e70c5c7d493ab180a1b13185f61-6e821b73fbcdf9a6154633fe3523d065-1770871011-1770860211
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 17
 http://172.19.178.39:18190/gtv/index.fmp4.m3u8?token=ab403207f7a2c9c79cc1b466f7053f3168864fac-b6389c667e3ca9b253149dbda6d7a66d-1770871020-1770860220
 
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 1
+http://172.19.178.39:18190/atn_news/index.fmp4.m3u8?token=0ef4d440e89590ebd65192ed4bdc56a207495007-484afc805ad6ad6063b450c17a5aa90e-1770883823-1770873023
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 2
+http://172.19.178.39:18190/btv_news/index.fmp4.m3u8?token=09744ae84a76a0d275babf0c701c6ba7178c145f-e0b630e48952bebcf89eeb3fa177bde0-1770883829-1770873029
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 3
+http://172.19.178.39:18190/channel_24/index.fmp4.m3u8?token=689229bd1881af4fe7e7abb4308011e0a08adb98-7898a6cc7190be26f431ab72a22ae175-1770883835-1770873035
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 4
+http://172.19.178.39:18190/dbc_news/index.fmp4.m3u8?token=c3047b121f6b0fc916dfe6c8e841486c5ea65d3d-3e24d10c85f2cdece42f68ae9509ef04-1770883841-1770873041
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 5
+http://172.19.178.39:18190/ekhon_tv/index.fmp4.m3u8?token=22533cf9050ecced285faf477dc70a9bf8dc998f-33c3e961eedccd4cc4df41f8f8bd2898-1770883860-1770873060
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 6
+http://172.19.178.39:18190/independent_tv/index.fmp4.m3u8?token=0991a3c6605da6cd71e56c2320d3628d2db01126-a35f0b8f7b27ed5d8d86d0e01cdabccb-1770883867-1770873067
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 7
+http://172.19.178.39:18190/jamuna_tv/index.fmp4.m3u8?token=c60c7827ea207d66c18046e3587bed96e0786587-ce3f210ea26636ed960f785b29a3f7cb-1770883873-1770873073
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 8
+http://172.19.178.39:18190/news24/index.fmp4.m3u8?token=9e0b77f1dbdc55ae6edde700030081266936ae9f-7549af07b5a9b498e82b0fe95578b256-1770883880-1770873080
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 9
+http://172.19.178.39:18190/somoy_tv/index.fmp4.m3u8?token=356ed03b0d7528465cf0ede3f56fe4a8afb416cf-493059bd73bfe2f59527a99112cd7bf9-1770883886-1770873086
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 10
+http://172.19.178.39:18190/71/index.fmp4.m3u8?token=1fec21192236d811e2de1a15b3a1a7bc502cf23c-4820da7e4133b55dde9a05e8245319b1-1770883892-1770873092
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 11
+http://172.19.178.39:18190/atn_bangla/index.fmp4.m3u8?token=447259a147ad28beef20175afa19cd83cbae7e42-cad0c093c2fd94139fa7d42d4500ba79-1770883918-1770873118
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 12
+http://172.19.178.39:18190/asian_tv/index.fmp4.m3u8?token=754ac7fd3efe073d1e0945493a993494e30b18ef-cbdf4ab5883fd8be00753f812e33e729-1770883925-1770873125
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 13
+http://172.19.178.39:18190/bangla_tv/index.fmp4.m3u8?token=16d074208dc8c41c29776f3e791b086f9d9a5b11-087a55e83a1da53cc6d5c73a93d04652-1770883933-1770873133
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 14
+http://172.19.178.39:18190/boishakhi_tv/index.fmp4.m3u8?token=87c4cf9a8b3fa3578d9b6209dc898e31190967dc-c3c9b06466ba690ed2cb6e12ea81a8e1-1770883939-1770873139
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 15
+http://172.19.178.39:18190/bijoy_tv/index.fmp4.m3u8?token=d9d4985e9047a47927276900b360f04c95336dd7-7f36186d73bb647a1801948f15760478-1770883948-1770873148
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 16
+http://172.19.178.39:18190/bangla_vision/index.fmp4.m3u8?token=c740612dd2a5049b1a1ce83c1c71d5e0ad9719cb-6d0c103bf76474b0c376dc14b18c92d6-1770883954-1770873154
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 17
+http://172.19.178.39:18190/btv/index.fmp4.m3u8?token=e7ae84bd49ee2b9914de8cc0b8767f649db4f244-af223682040e25faf6ceaac06eb918e8-1770883961-1770873161
+
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 18
-http://172.19.178.39:18190/maasranga_hd/index.fmp4.m3u8?token=34dfef9cfe658024629cb0687bebf2f8b8113b28-a70bf19644ce8df19bac47b5dd848edf-1770871028-1770860228
+http://172.19.178.39:18190/channel_i/index.fmp4.m3u8?token=65534c33df51a2f37bf18cb4b9d4fd9df68ecc03-c443fcb2ea561f93af4ee9389f6f1a64-1770883969-1770873169
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 19
-http://172.19.178.39:18190/global_tv/index.fmp4.m3u8?token=0726165f27bc85bf20dd236170d91d1bfc0a288e-11fd5765c3849f6c6627eca76347ae42-1770871036-1770860236
+http://172.19.178.39:18190/channel9/index.fmp4.m3u8?token=19fdf0cb6511985e0049792a0a7784042a0a1c9b-1b0e15239d0b71ad34d4bed38f6ae4f0-1770883979-1770873179
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 20
-http://172.19.178.39:18190/my_tv/index.fmp4.m3u8?token=4c743488e73f18e3d46f9f655e89c19dc4f4279b-e46e9e4241af5780cd65fc042c602ff9-1770871046-1770860246
+http://172.19.178.39:18190/deepto_tv/index.fmp4.m3u8?token=baf094667266814f593347c040eb88bef6bacd38-f36b85713ebc64ae9632c091f8d113ae-1770883993-1770873193
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 21
-http://172.19.178.39:18190/nagorik_tv/index.fmp4.m3u8?token=e55516420199405696b10e7fe2622fa2260d3957-7ac0c42d5c76b01822eeb4eb4d2ce44f-1770871055-1770860255
+http://172.19.178.39:18190/desh_tv/index.fmp4.m3u8?token=c1be4d0d997a6c5e892851cdaacca16101f98578-ae125e10d7b65eda76edde4f24b24217-1770883999-1770873199
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 22
-http://172.19.178.39:18190/bangla_vision/index.fmp4.m3u8?token=7d1b602d30e50c5df8d76b1452a33918deeb6bf7-90e4bcea6f23df52f0360c87edb61c6f-1770871372-1770860572
+http://172.19.178.39:18190/etv/index.fmp4.m3u8?token=357a925286584f498f4042bdab2d16f7eb68f1a1-fb564af534912d557de668bf7bf9aaf6-1770884007-1770873207
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 23
-http://172.19.178.39:18190/atn_bangla/index.fmp4.m3u8?token=cfdcf0c72ef82987cafd30b55bf7a07e41b330b5-53b4f1df87c0340e1f0108f6400c861b-1770871334-1770860534
+http://172.19.178.39:18190/gtv/index.fmp4.m3u8?token=2c07bcbe8327c96b69bb25295461bfbfcf8bcd7b-9f369041eae9df677399f80afdb3cc4f-1770884015-1770873215
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 24
-http://172.19.178.39:18190/asian_tv/index.fmp4.m3u8?token=b92192d0d96ad784bb86c79a660d200247e4257f-185fc906839ba827306e1ba74ca16c7f-1770871342-1770860542
+http://172.19.178.39:18190/global_tv/index.fmp4.m3u8?token=fed2a8f94ededc975f674ddb52171305021dd2e4-985b904279db1e011bc260a8956efb4e-1770884022-1770873222
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 25
-http://172.19.178.39:18190/boishakhi_tv/index.fmp4.m3u8?token=1ffa7d230c0245f45df66f62787b5fe151985830-fdee7896fa0c6c4996a25c52b7071f31-1770871353-1770860553
+http://172.19.178.39:18190/maasranga_hd/index.fmp4.m3u8?token=be6fcfbe7c39775afadfb60f8a29066d0276baee-a0b354b09e4770003731a509f3850bab-1770884028-1770873228
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 26
-http://172.19.178.39:18190/bijoy_tv/index.fmp4.m3u8?token=c9b6d9fec5618d4935e9afeddfdd260958e03a1f-5d2a486e2a9e101b022c6539d927e941-1770871363-1770860563
+http://172.19.178.39:18190/mohona_tv/index.fmp4.m3u8?token=4489042fc8ab5cca61fafed28ea733eed4e2d957-0084ea5781101257db9493d8edecdcac-1770884035-1770873235
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 27
-http://198.195.239.50:8095/bdixbd.net_NTV/video.m3u8
+http://172.19.178.39:18190/my_tv/index.fmp4.m3u8?token=51802eda287f9803ad1c731ac35e85636d28933a-3465d00d2b9cc82c2a437e17ecdaec52-1770884043-1770873243
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 28
+http://172.19.178.39:18190/nagorik_tv/index.fmp4.m3u8?token=9a62cd4542faf99ed3c0be6c14172cd3ea2c6202-23036cc6b1aaa3982bca61ae778ea0e2-1770884049-1770873249
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 29
+http://198.195.239.50:8095/bdixbd.net_NTV/video.m3u8
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 30
 http://10.200.200.2:8088/210/index.m3u8?token=0c705f1005f897685d6deb87becb2d1dbf482d86-728f633b1d2f95c4789c6ea1781fd798-1770864789-1770861189
