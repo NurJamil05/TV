@@ -192,3 +192,36 @@ http://172.19.178.39:18190/somoy_tv/index.fmp4.m3u8?token=e2428af08d868cc3ce1802
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 10
 http://172.19.178.39:18190/71/index.fmp4.m3u8?token=42c097c1142441e9244d91250ead8c1585ce52fb-bbc47efecca7330d2c74639febdf7fe3-1770870655-1770859855
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 11
+http://172.19.178.39:18190/btv/index.fmp4.m3u8?token=016b0b95485bcccf4a3caa3cc6c03eae69407c30-be9c8418e36d744d165d19d74bcf1f6f-1770870969-1770860169
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 12
+http://172.19.178.39:18190/channel_i/index.fmp4.m3u8?token=04e731c1bb1c4f1dfff1ff853e20b2bacc3164b7-f6548feda11383fcb4c8fd8c62837fa7-1770870978-1770860178
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 13
+http://172.19.178.39:18190/channel9/index.fmp4.m3u8?token=b22524018314131cc1df3a78293843e0951015b2-f3a96e24b84cc229d4b989d739a2289d-1770870987-1770860187
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 14
+http://172.19.178.39:18190/deepto_tv/index.fmp4.m3u8?token=19a0b3ca341589eecb33caa8e68904d5ff841cb5-2fbd4edb688194ee02126218a428db2f-1770870995-1770860195
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 15
+http://172.19.178.39:18190/desh_tv/index.fmp4.m3u8?token=f7f160412d2ba720eadcbb1d1592fbce1938246d-038a5e20beb1f3c463e0d897028d3058-1770871003-1770860203
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 16
+http://172.19.178.39:18190/etv/index.fmp4.m3u8?token=3eccb6877a050e70c5c7d493ab180a1b13185f61-6e821b73fbcdf9a6154633fe3523d065-1770871011-1770860211
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 17
+http://172.19.178.39:18190/gtv/index.fmp4.m3u8?token=ab403207f7a2c9c79cc1b466f7053f3168864fac-b6389c667e3ca9b253149dbda6d7a66d-1770871020-1770860220
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 18
+http://172.19.178.39:18190/maasranga_hd/index.fmp4.m3u8?token=34dfef9cfe658024629cb0687bebf2f8b8113b28-a70bf19644ce8df19bac47b5dd848edf-1770871028-1770860228
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 19
+http://172.19.178.39:18190/global_tv/index.fmp4.m3u8?token=0726165f27bc85bf20dd236170d91d1bfc0a288e-11fd5765c3849f6c6627eca76347ae42-1770871036-1770860236
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 20
+http://172.19.178.39:18190/my_tv/index.fmp4.m3u8?token=4c743488e73f18e3d46f9f655e89c19dc4f4279b-e46e9e4241af5780cd65fc042c602ff9-1770871046-1770860246
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 21
+http://172.19.178.39:18190/nagorik_tv/index.fmp4.m3u8?token=e55516420199405696b10e7fe2622fa2260d3957-7ac0c42d5c76b01822eeb4eb4d2ce44f-1770871055-1770860255
