@@ -240,3 +240,9 @@ http://172.19.178.39:18190/boishakhi_tv/index.fmp4.m3u8?token=1ffa7d230c0245f45d
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 26
 http://172.19.178.39:18190/bijoy_tv/index.fmp4.m3u8?token=c9b6d9fec5618d4935e9afeddfdd260958e03a1f-5d2a486e2a9e101b022c6539d927e941-1770871363-1770860563
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 27
+http://198.195.239.50:8095/bdixbd.net_NTV/video.m3u8
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 28
+http://10.200.200.2:8088/210/index.m3u8?token=0c705f1005f897685d6deb87becb2d1dbf482d86-728f633b1d2f95c4789c6ea1781fd798-1770864789-1770861189
