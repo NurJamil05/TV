@@ -163,64 +163,32 @@ http://172.19.1.2/63463433/index.m3u8
 #EXTINF:-1 group-title="Sports", Solh tv
 
 
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 1
+http://172.19.178.39:18190/atn_news/index.fmp4.m3u8?token=84a4d395b0e409306a94b567ebf9c1233ac08214-a217bda6498ba7c5ee57551eff1a69cc-1770870583-1770859783
 
-#EXTINF:-1 group-title="Cloud TV", Channel 1
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 2
+http://172.19.178.39:18190/btv_news/index.fmp4.m3u8?token=f8337e927c80fcc54b901fcd63a87cea9d73e4ae-853e76f870ba842b1ad91b58ed4ccf9b-1770870594-1770859794
 
-#EXTINF:-1 group-title="Cloud TV", Channel 2
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 3
+http://172.19.178.39:18190/channel_24/index.fmp4.m3u8?token=69026dafd7c6fd2c9254840517ee5eedea273fb6-ead52ff74357142ebc3daeaeb4d10738-1770870602-1770859802
 
-#EXTINF:-1 group-title="Cloud TV", Channel 3
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 4
+http://172.19.178.39:18190/dbc_news/index.fmp4.m3u8?token=269ad63baf93ea3765d7d20aff46638bc1af712a-10396933e33a9021bae8b3fccd812dac-1770870612-1770859812
 
-#EXTINF:-1 group-title="Cloud TV", Channel 4
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 5
+http://172.19.178.39:18190/ekhon_tv/index.fmp4.m3u8?token=3ef357e82ddb8764c2b32c490bee41f896a0195d-8748e3ce0e1b06f937c8a84acb154d32-1770870619-1770859819
 
-#EXTINF:-1 group-title="Cloud TV", Channel 5
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 6
+http://172.19.178.39:18190/independent_tv/index.fmp4.m3u8?token=6df7b5d40a67587a84e4d006c2234b9cf360ec2d-99f5354cf643d42102d0e5aa3088db64-1770870626-1770859826
 
-#EXTINF:-1 group-title="Cloud TV", Channel 6
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 7
+http://172.19.178.39:18190/jamuna_tv/index.fmp4.m3u8?token=0c4a9892fd64141391bf7c660ffd27c6a36aedb8-0b7d1217d8187d99c3a731140a9fc77b-1770870633-1770859833
 
-#EXTINF:-1 group-title="Cloud TV", Channel 7
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 8
+http://172.19.178.39:18190/news24/index.fmp4.m3u8?token=6eebc13dbede1c47112fa15b6c0a6b4b4bd773e3-79fc4b5d80db534d9bf5508d39efc0d8-1770870641-1770859841
 
-#EXTINF:-1 group-title="Cloud TV", Channel 8
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 9
+http://172.19.178.39:18190/somoy_tv/index.fmp4.m3u8?token=e2428af08d868cc3ce18026e3e31c8a5982e5b01-9eb7f7931623324a35ec2d51fe5cd2e1-1770870648-1770859848
 
-#EXTINF:-1 group-title="Cloud TV", Channel 9
-
-#EXTINF:-1 group-title="Cloud TV", Channel 10
-
-#EXTINF:-1 group-title="Cloud TV", Channel 11
-
-#EXTINF:-1 group-title="Cloud TV", Channel 12
-
-#EXTINF:-1 group-title="Cloud TV", Channel 13
-
-#EXTINF:-1 group-title="Cloud TV", Channel 14
-
-#EXTINF:-1 group-title="Cloud TV", Channel 15
-
-#EXTINF:-1 group-title="Cloud TV", Channel 16
-
-#EXTINF:-1 group-title="Cloud TV", Channel 17
-
-#EXTINF:-1 group-title="Cloud TV", Channel 18
-
-#EXTINF:-1 group-title="Cloud TV", Channel 19
-
-#EXTINF:-1 group-title="Cloud TV", Channel 20
-
-#EXTINF:-1 group-title="Cloud TV", Channel 21
-
-#EXTINF:-1 group-title="Cloud TV", Channel 22
-
-#EXTINF:-1 group-title="Cloud TV", Channel 23
-
-#EXTINF:-1 group-title="Cloud TV", Channel 24
-
-#EXTINF:-1 group-title="Cloud TV", Channel 25
-
-#EXTINF:-1 group-title="Cloud TV", Channel 26
-
-#EXTINF:-1 group-title="Cloud TV", Channel 27
-
-#EXTINF:-1 group-title="Cloud TV", Channel 28
-
-#EXTINF:-1 group-title="Cloud TV", Channel 29
-
-#EXTINF:-1 group-title="Cloud TV", Channel 30
-
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 10
+http://172.19.178.39:18190/71/index.fmp4.m3u8?token=42c097c1142441e9244d91250ead8c1585ce52fb-bbc47efecca7330d2c74639febdf7fe3-1770870655-1770859855
