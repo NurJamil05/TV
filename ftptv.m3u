@@ -225,3 +225,18 @@ http://172.19.178.39:18190/my_tv/index.fmp4.m3u8?token=4c743488e73f18e3d46f9f655
 
 #EXTINF:-1 group-title="Cloud TV", Cloudtv 21
 http://172.19.178.39:18190/nagorik_tv/index.fmp4.m3u8?token=e55516420199405696b10e7fe2622fa2260d3957-7ac0c42d5c76b01822eeb4eb4d2ce44f-1770871055-1770860255
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 22
+http://172.19.178.39:18190/bangla_vision/index.fmp4.m3u8?token=7d1b602d30e50c5df8d76b1452a33918deeb6bf7-90e4bcea6f23df52f0360c87edb61c6f-1770871372-1770860572
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 23
+http://172.19.178.39:18190/atn_bangla/index.fmp4.m3u8?token=cfdcf0c72ef82987cafd30b55bf7a07e41b330b5-53b4f1df87c0340e1f0108f6400c861b-1770871334-1770860534
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 24
+http://172.19.178.39:18190/asian_tv/index.fmp4.m3u8?token=b92192d0d96ad784bb86c79a660d200247e4257f-185fc906839ba827306e1ba74ca16c7f-1770871342-1770860542
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 25
+http://172.19.178.39:18190/boishakhi_tv/index.fmp4.m3u8?token=1ffa7d230c0245f45df66f62787b5fe151985830-fdee7896fa0c6c4996a25c52b7071f31-1770871353-1770860553
+
+#EXTINF:-1 group-title="Cloud TV", Cloudtv 26
+http://172.19.178.39:18190/bijoy_tv/index.fmp4.m3u8?token=c9b6d9fec5618d4935e9afeddfdd260958e03a1f-5d2a486e2a9e101b022c6539d927e941-1770871363-1770860563
