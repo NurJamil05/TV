@@ -174,32 +174,3 @@ http://172.19.1.2/63463433/index.m3u8
 #EXTINF:-1 group-title="Sports", Solh tv
 
 
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 1
-http://172.19.178.39:18190/atn_news/index.fmp4.m3u8?token=c95df942d5696e6daaea6fe243d604050ca72ed1-f4e50d5991fd9302ee88c98fa5fd5318-1770901034-1770890234
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 2
-http://172.19.178.39:18190/btv_news/index.fmp4.m3u8?token=e78fbd8d07be1e779846de0cb72506ffdf78b895-f98f8ca300075ef14efe5b89edf9c16e-1770901044-1770890244
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 3
-http://172.19.178.39:18190/channel_24/index.fmp4.m3u8?token=8e454ae5d32833a1b1d5f7278946a95eca8f5c5e-6fa3e0f8eb1214e8c8d254535ee6c39e-1770901050-1770890250
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 4
-http://172.19.178.39:18190/dbc_news/index.fmp4.m3u8?token=f4dd74e07464c17af5f76f9a1fbe0b0f67da6a4d-79a53280549771b1f8e9f099f1f8b4d8-1770901060-1770890260
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 5
-http://172.19.178.39:18190/ekhon_tv/index.fmp4.m3u8?token=4243c95b7f0ae9e4c6a4e2040a9ed13e892fec9e-e36a2d462b4f55e386d2d2d44602a63c-1770901066-1770890266
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 6
-http://172.19.178.39:18190/independent_tv/index.fmp4.m3u8?token=1dbad499a245a9a7f997a8decc6a0d5b5666afe2-d531d258a44721b044b130bfc2686bf3-1770901079-1770890279
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 7
-http://172.19.178.39:18190/jamuna_tv/index.fmp4.m3u8?token=e825fc411351c1d5d4fa909c1882ad235745c5e9-2d1ab1614b22a91328d0c16e5c0cca73-1770901113-1770890313
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 8
-http://172.19.178.39:18190/news24/index.fmp4.m3u8?token=64321f7c4e85b7b09edf7f7fe1408d0a5fe3d94b-88f5efee05d9913dda12781bd324d2b4-1770901119-1770890319
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 9
-http://172.19.178.39:18190/somoy_tv/index.fmp4.m3u8?token=6dda66136ff2d9eb5ef7414ada5b127f86760c5b-cc65e2f901624f627688f3a3b92b0af8-1770901125-1770890325
-
-#EXTINF:-1 group-title="Cloud TV", Cloudtv 10
-http://172.19.178.39:18190/71/index.fmp4.m3u8?token=c11d0d8da9abe83982787af397e04607d14931e1-ca5cd9ac247c48a69984256c6c8077dc-1770901131-1770890331
