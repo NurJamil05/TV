@@ -89,6 +89,17 @@ http://172.20.5.1/webplayer/webplayer/398.m3u8
 
 #EXTINF:-1 group-title="INTERNET TV" , CHANNEL 30
 http://172.20.5.1/webplayer/webplayer/399.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 31
+http://172.20.5.1/webplayer/webplayer/400.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 32
+http://172.20.5.1/webplayer/webplayer/401.m3u8
+
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 33
+http://172.20.5.1/webplayer/webplayer/402.m3u8
+#EXTINF:-1 group-title="INTERNET TV" , CHANNEL 34
+http://172.20.5.1/webplayer/webplayer/403.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://raw.githubusercontent.com/NurJamil05/TV/main/20251010_062246.jpg", Channel 1
 
 
