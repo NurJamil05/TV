@@ -1,82 +1,103 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC1
-http://10.200.200.2:8088/217/video.m3u8?token=apnnactg
+http://172.20.3.1:3255/TSportsHD/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC2
-http://10.200.200.2:8088/205/video.m3u8?token=apnnactg
+http://172.20.3.1:3255/tsp2rc/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC3
-http://10.200.200.2:8088/102/video.m3u8?token=apnnactg
+http://172.20.3.1:3255/tspnk3/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC4
-http://10.200.200.2:8088/125/video.m3u8?token=apnnactg
+http://172.20.3.1:3255/somyyt/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC5
-http://172.19.1.2/63463433/index.m3u8
+http://172.20.3.1:3255/btv_sf/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC6
-http://172.19.1.2/9865678/index.m3u8
+http://172.20.3.1:3255/ptv/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC7
-http://172.19.1.2/9346574/index.m3u8
+http://172.20.3.1:3255/ZEE-CAFE-HD/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC8
-http://172.19.1.2/9090801/index.m3u8
+http://172.19.1.2/63463433/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC9
-http://172.19.0.18:5000/stream/79/playlist.m3u8
+http://172.19.1.2/9865678/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC10
-http://172.19.0.18:5000/stream/9182736450293/playlist.m3u8
+http://172.19.1.2/9346574/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC11
-http://172.19.0.18:5000/stream/3748291029384/playlist.m3u8
+http://172.19.1.2/9090801/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC12
-http://172.19.0.18:5000/stream/1/playlist.m3u8
+http://172.19.0.18:5000/stream/79/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC13
-http://172.19.0.18:5000/stream/7364510293855/playlist.m3u8
+http://172.19.0.18:5000/stream/9182736450293/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC14
-http://172.19.0.18:5000/stream/37/playlist.m3u8
+http://172.19.0.18:5000/stream/3748291029384/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC15
-http://172.19.0.18:5000/stream/4829103847562/playlist.m3u8
+http://172.19.0.18:5000/stream/1/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC16
-http://172.19.0.18:5000/stream/5019283746510/playlist.m3u8
+http://172.19.0.18:5000/stream/7364510293855/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC17
-http://103.158.133.62:8080/live/index.m3u8
+http://172.19.0.18:5000/stream/37/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC18
-http://103.158.133.62:8080/tsports/index.m3u8
+http://172.19.0.18:5000/stream/4829103847562/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC19
-http://103.158.133.62:8080/ptv/index.m3u8
+http://172.19.0.18:5000/stream/5019283746510/playlist.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC20
-http://103.158.133.62:8080/btv/index.m3u8
+http://103.158.133.62:8080/live/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC21
-http://103.158.133.62:8080/somoytv/index.m3u8
+http://103.158.133.62:8080/tsports/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC22
-http://172.20.21.22/live/skyfeed1004/index.m3u8
+http://103.158.133.62:8080/ptv/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC23
-http://172.20.21.22/live/skyfeed1005/index.m3u8
+http://103.158.133.62:8080/btv/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC24
-http://172.16.29.138:8090/hls/tsportshd.m3u8
+http://103.158.133.62:8080/somoytv/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC25
-http://172.16.29.138:8090/hls/ptvsportshd.m3u8
+http://172.20.21.22/live/skyfeed1004/index.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC26
+http://172.20.21.22/live/skyfeed1005/index.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup 2026", WC27
+http://172.16.29.138:8090/hls/tsportshd.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup 2026", WC28
+http://172.16.29.138:8090/hls/ptvsportshd.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup 2026", WC29
 http://172.16.29.138:8090/hls/somoytv.m3u8
+
+#EXTINF:-1 group-title="FIFA World Cup 2026", WC30
+http://10.200.200.2:8088/217/video.m3u8?token=apnnactg
+
+#EXTINF:-1 group-title="FIFA World Cup 2026", WC31
+http://10.200.200.2:8088/205/video.m3u8?token=apnnactg
+
+#EXTINF:-1 group-title="FIFA World Cup 2026", WC32
+http://10.200.200.2:8088/102/video.m3u8?token=apnnactg
+
+#EXTINF:-1 group-title="FIFA World Cup 2026", WC33
+http://10.200.200.2:8088/125/video.m3u8?token=apnnactg
 
 #EXTINF:-1 group-title="INTERNET TV" , CHANNEL 1
 http://172.20.5.1/webplayer/webplayer/370.m3u8
