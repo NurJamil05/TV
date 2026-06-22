@@ -1,7 +1,16 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="FIFA World Cup 2026",Special
+#EXTINF:-1 tvg-id="iScreen" tvg-name="iScreen FIFA" tvg-logo="https://iscreen.com.bd/favicon.ico" group-title="Live Sports", iScreen FIFA Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
+#EXTVLCOPT:http-origin=https://iscreen.com.bd
 https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://iscreen.com.bd/&Origin=https://iscreen.com.bd
+#EXTM3U
+#EXTINF:-1 tvg-id="iScreen" tvg-name="iScreen FIFA" tvg-logo="https://iscreen.com.bd/favicon.ico" group-title="Live Sports", iScreen FIFA Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
+#EXTVLCOPT:http-origin=https://iscreen.com.bd
+https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_720p/chunks.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://iscreen.com.bd/&Origin=https://iscreen.com.bd
+
 #EXTINF:-1 ,Channel 1
 https://smartbox.digital/stream/BTV-HD/playlist.m3u8
 #EXTINF:-1 ,Channel 2
