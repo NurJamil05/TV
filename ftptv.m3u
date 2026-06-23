@@ -4,6 +4,14 @@
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 #EXTVLCOPT:http-origin=https://iscreen.com.bd
 https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://iscreen.com.bd/&Origin=https://iscreen.com.bd
+
+#EXTINF:-1 group-title="APNA TV",101
+http://10.200.200.2:8088/101/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="APNA TV",102
+http://10.200.200.2:8088/102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="APNA TV",128
+http://10.200.200.2:8088/128/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,Channel 1
 https://smartbox.digital/stream/BTV-HD/playlist.m3u8
 #EXTINF:-1 ,Channel 2
