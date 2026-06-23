@@ -1,4 +1,27 @@
 #EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=600000,RESOLUTION=640x360
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_600.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=854x480
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_1000.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=960x540
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_1500.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,RESOLUTION=1024x576
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_1800.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1280x720
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8
+
+
+
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-id="iScreen" tvg-name="iScreen FIFA" tvg-logo="https://iscreen.com.bd/favicon.ico" group-title="Live Sports", iScreen FIFA Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
