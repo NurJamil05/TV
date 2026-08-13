@@ -68,7 +68,10 @@ https://smartbox.digital/stream/PTV-SPORTS-HD/playlist.m3u8
 https://smartbox.digital/stream/LIVE-SPORTS/playlist.m3u8
 #EXTINF:-1 ,Channel 6
 https://smartbox.digital/stream/UNITE8-SPORTS-1/playlist.m3u8
-
+#EXTINF:-1 ,Channel 6
+https://smartbox.digital/stream-load/astrocricket/playlist.m3u8
+#EXTINF:-1 ,Channel 6
+https://smartbox.digital/stream/STAR-SPORTS1-HD/playlist.m3u8
 
 
 #EXTINF:-1 ,Channel 1
