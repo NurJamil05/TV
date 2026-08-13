@@ -7,193 +7,69 @@ https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/playlist.m3u8|User-Agent
 
 ----------APNA TV 
 
-#EXTINF:-1 group-title="APNA TV",T Sports
+#EXTINF:-1 group-title="APNA TV",T Sports(Apna)
 http://10.200.200.2:8088/102/video.m3u8
 
-#EXTINF:-1 group-title="APNA TV",Btv
+#EXTINF:-1 group-title="APNA TV",Btv(Apna)
 http://10.200.200.2:8088/106/video.m3u8
 
-#EXTINF:-1 group-title="APNA TV",Somoy Tv
+#EXTINF:-1 group-title="APNA TV",Somoy Tv(Apna)
 http://10.200.200.2:8088/205/video.m3u8
 
-#EXTINF:-1 group-title="APNA TV",Ptv Sports
+#EXTINF:-1 group-title="APNA TV",Ptv Sports(Apna)
 http://10.200.200.2:8088/128/video.m3u8
 
-#EXTINF:-1 group-title="APNA TV",Unite8 Sports
+#EXTINF:-1 group-title="APNA TV",Unite8 Sports(Apna)
 http://10.200.200.2:8088/101/video.m3u8
 
---------- 103.163.117.83
-
-#EXTINF:-1 group-title="UNKNOWN FTP",Stream 1
-http://103.163.117.83:8063/ch1/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="UNKNOWN FTP",Stream 2
-http://103.163.117.83:8063/ch2/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="UNKNOWN FTP",Stream 3
-http://103.163.117.83:8063/ch3/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="UNKNOWN FTP",Stream 4
-http://103.163.117.83:8063/ch4/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="UNKNOWN FTP",Stream 5
-http://103.163.117.83:8063/ch5/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="UNKNOWN FTP",Stream 6
-http://103.163.117.83:8063/ch6/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="UNKNOWN FTP",Stream 7
-http://103.163.117.83:8063/ch7/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="UNKNOWN FTP",Stream 8
-http://103.163.117.83:8063/ch8/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="UNKNOWN FTP",Stream 9
-http://103.163.117.83:8063/ch9/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="UNKNOWN FTP",Stream 10
-http://103.163.117.83:8063/ch10/index.fmp4.m3u8
 
 ---------Smartbox.digital
 
-#EXTINF:-1 ,Channel 1
+#EXTINF:-1 ,Channel 1(Smartbox)
 https://smartbox.digital/stream/BTV-HD/playlist.m3u8
-#EXTINF:-1 ,Channel 2
+#EXTINF:-1 ,Channel 2(Smartbox)
 https://smartbox.digital/stream/SOMOY-NEWS/playlist.m3u8
-#EXTINF:-1 ,Channel 3
+#EXTINF:-1 ,Channel 3(Smartbox)
 https://smartbox.digital/stream/T-SPORTS/playlist.m3u8
-#EXTINF:-1 ,Channel 4
+#EXTINF:-1 ,Channel 4(Smartbox)
 https://smartbox.digital/stream/PTV-SPORTS-HD/playlist.m3u8
-#EXTINF:-1 ,Channel 5
+#EXTINF:-1 ,Channel 5(Smartbox)
 https://smartbox.digital/stream/LIVE-SPORTS/playlist.m3u8
-#EXTINF:-1 ,Channel 6
+#EXTINF:-1 ,Channel 6(Smartbox)
 https://smartbox.digital/stream/UNITE8-SPORTS-1/playlist.m3u8
-#EXTINF:-1 ,Channel 7
+#EXTINF:-1 ,Channel 7(Smartbox)
 https://smartbox.digital/stream-load/astrocricket/playlist.m3u8
-#EXTINF:-1 ,Channel 8
+#EXTINF:-1 ,Channel 8(Smartbox)
 https://smartbox.digital/stream/STAR-SPORTS1-HD/playlist.m3u8
 
+172.17.50.112
 
-#EXTINF:-1 ,Channel 1
+#EXTINF:-1 ,Channel 1(ant)
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 2
+#EXTINF:-1 ,Channel 2(ant)
 http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 3
+#EXTINF:-1 ,Channel 3(ant)
 http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 4
+#EXTINF:-1 ,Channel 4(ant)
 http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 5
+#EXTINF:-1 ,Channel 5(ant)
 http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 6
+#EXTINF:-1 ,Channel 6(ant)
 http://172.17.50.112:84/ant1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 7
+#EXTINF:-1 ,Channel 7(ant)
 http://172.17.50.112:84/ant1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 8
+#EXTINF:-1 ,Channel 8(ant)
 http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Channel 9
+#EXTINF:-1 ,Channel 9(ant)
 http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Zee Bangla
+#EXTINF:-1 ,Zee Bangla(ant)
 http://103.237.37.118:8888/Zee-Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star Jalsha
+#EXTINF:-1 ,Star Jalsha(ant)
 http://103.237.37.118:8888/Star-Jalsha/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC1
-http://172.20.3.1:3255/TSportsHD/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC2
-http://172.20.3.1:3255/tsp2rc/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC3
-http://172.20.3.1:3255/tspnk3/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC4
-http://172.20.3.1:3255/somyyt/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC5
-http://172.20.3.1:3255/btv_sf/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC6
-http://172.20.3.1:3255/ptv/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC7
-http://172.20.3.1:3255/ZEE-CAFE-HD/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC8
-http://172.19.1.2/63463433/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC9
-http://172.19.1.2/9865678/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC10
-http://172.19.1.2/9346574/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC11
-http://172.19.1.2/9090801/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC12
-http://172.19.0.18:5000/stream/79/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC13
-http://172.19.0.18:5000/stream/9182736450293/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC14
-http://172.19.0.18:5000/stream/3748291029384/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC15
-http://172.19.0.18:5000/stream/1/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC16
-http://172.19.0.18:5000/stream/7364510293855/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC17
-http://172.19.0.18:5000/stream/37/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC18
-http://172.19.0.18:5000/stream/4829103847562/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC19
-http://172.19.0.18:5000/stream/5019283746510/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC20
-http://103.158.133.62:8080/live/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC21
-http://103.158.133.62:8080/tsports/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC22
-http://103.158.133.62:8080/ptv/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC23
-http://103.158.133.62:8080/btv/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC24
-http://103.158.133.62:8080/somoytv/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC25
-http://172.20.21.22/live/skyfeed1004/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC26
-http://172.20.21.22/live/skyfeed1005/index.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC27
-http://172.16.29.138:8090/hls/tsportshd.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC28
-http://172.16.29.138:8090/hls/ptvsportshd.m3u8
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC29
-http://172.16.29.138:8090/hls/somoytv.m3u8
 
 #EXTINF:-1 group-title="FIFA World Cup 2026", WC30
 http://10.200.200.2:8088/217/video.m3u8?token=apnnactg
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC31
-http://10.200.200.2:8088/205/video.m3u8?token=apnnactg
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC32
-http://10.200.200.2:8088/102/video.m3u8?token=apnnactg
-
-#EXTINF:-1 group-title="FIFA World Cup 2026", WC33
+EXTINF:-1 group-title="FIFA World Cup 2026", WC33
 http://10.200.200.2:8088/125/video.m3u8?token=apnnactg
 
 #EXTINF:-1 group-title="INTERNET TV" , CHANNEL 1
@@ -297,9 +173,6 @@ http://172.20.5.1/webplayer/webplayer/402.m3u8
 
 #EXTINF:-1 group-title="INTERNET TV" , CHANNEL 34
 http://172.20.5.1/webplayer/webplayer/403.m3u8
-
-#EXTINF:-1 group-title="Sports" , T Sports (APNA)
-http://10.200.200.2:8088/102/video.m3u8?token=apnnactg
 
 #EXTINF:-1 group-title="Sports", Ektv Sports 1
 http://103.175.73.12:8080/live/151/151_0.m3u8
